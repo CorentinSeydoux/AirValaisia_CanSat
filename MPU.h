@@ -2,8 +2,6 @@
 
 #define port Wire1
 
-
-
 class mpu {
 
 private :
