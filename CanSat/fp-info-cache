@@ -1,4 +1,4 @@
-19813006048041151
+19817948351703171
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2457,6 +2457,13 @@ Battery_2x18650
 7
 7
 CanSat
+E32_LORA
+
+LORA
+0
+11
+11
+CanSat
 GPS_MTK3339
 
 
@@ -2478,6 +2485,13 @@ KTG1205CL
 2
 2
 CanSat
+MPU6050
+
+
+0
+8
+8
+CanSat
 MS583702BA01-50
 
 
@@ -2498,6 +2512,13 @@ TSR 2-2450
 0
 3
 3
+CanSat
+Vis_M3
+
+
+0
+1
+1
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
